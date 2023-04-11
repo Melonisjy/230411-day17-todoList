@@ -1,0 +1,22 @@
+[
+  {
+    "title": "청소하기",
+    "desc": "집이 너무 더럽다. 꼭 청소해야지",
+    "isDone": false
+  },
+  {
+    "title": "빨래하기",
+    "desc": "옷이 너무 더럽다. 꼭 빨래해야지",
+    "isDone": false
+  },
+  {
+    "title": "이코테 공부하기",
+    "desc": "그리디 공부해야지",
+    "isDone": false
+  },
+  {
+    "title": "책읽기",
+    "desc": "사토시의 서 읽기",
+    "isDone": false
+  }
+]
